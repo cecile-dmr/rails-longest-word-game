@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+
+.btn-play {
+  background-color: red;
+  color: white;
+  border: 0, white, solid;
+  border-radius: 5px;
+  padding: 3px
+ }
+
+ p {
+  font-size: 12px;
+  font-weight: lighter;
+ }
